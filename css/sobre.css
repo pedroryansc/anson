@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    background-color: #A245FF;
+}
+
+footer{
+    background-color: #FFFFFF;
+}
+
+#centro{
+    width: 800px;
+    padding-top: 8%;
+}
+
+#assinatura{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600
+}

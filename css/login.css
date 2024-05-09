@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: #A245FF;
+}
+
+footer{
+    background-color: #FFFFFF;
+}
+
+#botao{
+    float: right;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#centro{
+    padding-top: 7%;
+}
