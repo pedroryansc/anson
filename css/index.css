@@ -1,13 +1,14 @@
 @charset "UTF-8";
 
 #centro{
-    width: 1000px;
+    width: 1060px;
     padding-top: 1%;
 }
 
 table{
     border: 1px solid black;
     text-align: center;
+    border-collapse: collapse;
 }
 
 tr{
@@ -18,12 +19,13 @@ tr{
 th{
     padding-left: 30px;
     padding-right: 30px;
+    border: 1px solid black;
 }
 
 td{
-    border-right: 1px solid black;
     padding-left: 10px;
     padding-right: 10px;
+    border: 1px solid black;
 }
 
 footer{
