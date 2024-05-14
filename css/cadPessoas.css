@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#centro{
+    width: 600px;
+    padding-top: 1%;
+}
+
+footer{
+    background-color: #A245FF;
+}
+
+#borda{
+    border-right: 1px solid white;
+}
