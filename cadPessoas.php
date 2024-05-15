@@ -58,11 +58,11 @@
                     </div>
                     <div class="txtEsquerda">
                         <p><label for="genero" class="legenda">Gênero</label></p>
-                        <input type="radio" name="genero" value="F">Feminino
+                        <input type="radio" name="genero" value="F"> Feminino
                         <br>
-                        <input type="radio" name="genero" value="M">Masculino
+                        <input type="radio" name="genero" value="M"> Masculino
                         <br>
-                        <input type="radio" name="genero" value="NB">Não-binário
+                        <input type="radio" name="genero" value="NB"> Não-binário
                     </div>
                     <div class="txtDireita">
                         <p><label for="filhos" class="legenda">Tem filho(s)?</label></p>
