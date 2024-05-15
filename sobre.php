@@ -2,14 +2,14 @@
 <html lang="pt-br">
 <head>
     <?php
-        include "cabecalho.html";
+        include "trechos/cabecalho.html";
     ?>
     <title>Sobre - ANSON</title>
     <link href="css/sobre.css" rel="stylesheet">
 </head>
 <body>
     <?php
-        include "voltar.html";
+        include "trechos/voltar.html";
     ?>
     <div id="centro">
         <header>
@@ -34,7 +34,7 @@
         </article>
     </div>
     <?php
-        include "footerBranco.html";
+        include "trechos/footerBranco.html";
     ?>
 </body>
 </html>

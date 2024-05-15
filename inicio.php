@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <?php
-        include "cabecalho.html";
+        include "trechos/cabecalho.html";
     ?>
     <title>Início - ANSON</title>
     <link href="css/inicio.css" rel="stylesheet">
@@ -17,7 +17,7 @@
         </div>
     </section>
     <?php
-        include "footerBranco.html";
+        include "trechos/footerBranco.html";
     ?>
 </body>
 </html>

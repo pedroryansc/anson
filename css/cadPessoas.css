@@ -5,6 +5,40 @@
     padding-top: 1%;
 }
 
+#dadosPessoais{
+    height: 420px;
+}
+
+#endPessoal{
+    margin-top: 70px;
+    height: 310px;
+}
+
+#documentos{
+    margin-top: 70px;
+    height: 310px;
+}
+
+#endComercial{
+    margin-top: 70px;
+    height: 310px;
+    margin-bottom: 70px;
+}
+
+.espacoInput{
+    margin-left: 15px;
+}
+
+#botao{
+    float: right;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 160px;
+    font-size: 20px;
+    color: white;
+    background-color: #A245FF;
+}
+
 footer{
     background-color: #A245FF;
 }
